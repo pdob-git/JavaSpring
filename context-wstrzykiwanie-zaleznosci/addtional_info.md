@@ -1,4 +1,4 @@
-## Wstrzyliwanie zależności - Dependencu Injection
+## Wstrzyliwanie zależności - Dependency Injection
 
 Dodatkowe informacje:
 
