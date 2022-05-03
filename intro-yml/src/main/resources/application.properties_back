@@ -1,0 +1,3 @@
+spring.banner.location=logo.txt
+spring.banner.charset=UTF-8
+
