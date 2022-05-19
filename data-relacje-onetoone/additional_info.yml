@@ -1,0 +1,5 @@
+Dodatkowe źródła
+
+Adnotacja @OneToOne w dokumentacji Jakarta Persistence 3.0: https://jakarta.ee/specifications/persistence/3.0/jakarta-persistence-spec-3.0.html#bidirectional-onetoone-relationships
+
+Adnotacja @JoinColumn w specyfikacji Jakarta Persistrnce 3.0: https://jakarta.ee/specifications/persistence/3.0/jakarta-persistence-spec-3.0.html#a14922
